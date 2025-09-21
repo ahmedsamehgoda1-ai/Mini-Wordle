@@ -32,7 +32,7 @@ words.txt file containing a list of 5-letter words, one per line
 ##Installation 
 1-Clone this repository:
 
-git clone https://github.com/your-username/mini-wordle.git
+git clone https://github.com/ahmedsamehgoda1-ai/mini-wordle.git
 
 2-Navigate to the project folder:
 
